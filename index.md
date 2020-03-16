@@ -183,9 +183,7 @@ Letter grades comport with a traditional set of intervals:
 
 The assigned work for the term comes in the form of four elements, described below:
 
-- **Weekly Labs (100%):**  Each week you will be given a lab based upon a new regression model. 
-
-- **Final Quiz (10%):**  The course will conclude with a quiz
+- **Weekly Labs (100%):**  Each week you will be given lecture notes and a lab covering a new regression model. The labs require a substantial amount of work preparing the raw data for analysis, running models, and interpretting results. Your grade is derived from performance on these seven labs. You are allowed to drop one lab over the semester, making labs worth 15 points each. 
 
 
 ## D. General Grading Rubric for Written Work
@@ -233,53 +231,21 @@ Please note: the course instructor may from time to time adjust assigned reading
 
 ## Couse Schedule
 
-### Unit 1 - Regression Review
+### Unit 1 - Interrupted Time Series
 
-**Regression Mechanics: Variance, Slopes and Residuals**
-- Using Regression Models to Estimate Program Effects&quot; Read 417-431, Skim 431-455
-- Lewis-Beck pp 9-25
-- Lab #1 – Regression Review
+### Unit 2 - Difference-in-Difference Models  
 
-### Unit 2 - Effects: Size and Confidence 
+### Unit 3 - Panel Data with Fixed Effects  
 
-**Hypothesis Testing: Standard Errors, Confidence Intervals, and p-values**
-- Skim The New Statistics, CH3: Confidence Intervals; CH4: Error Bars and p-values.
-- Lewis-Beck pp 30-54
-- Lab #2 - Confidence Intervals
+### Unit 4 - Instrumental Variables 
 
-### Unit 3 - Control Variables 
+### Unit 5 - Regression Discontinuity Design 
 
-**Control Variables &amp; Partitioned Regressions**
-- Baily CH5: Section 5.1-Multivariate OLS
-- Lab #3 - Partitioned Regression
+### Unit 6 - Logistic Regression 
 
-### Unit 4 - Omitted Variable Bias
+### Unit 7 - Propensity Score Matching 
 
-**Omitted Variable Bias**
-- Baily Section 5.2-Omitted Variable Bias
-- Lab #4 – Omitted Variable Bias
 
-### Unit 5 - Dummy Variables 
-
-**Model Specification**
-- Baily CH6: Dummy Variables; CH7: Transforming Variables
-- Lab #5 – Omitted Variable Bias
-
-### Unit 6 - Specification
-
-**Model Specification**
-- Baily CH7: Transforming Variables
-- Lab #6 – More Model Specification
-
-**Seven Sins of Regression Analysis** 
-- Readings posted on Course Shell
-
-### Unit 7
-
-**Review for Final**
-- Practice final exam 
-
-### Final Exam
 
 <br>
 <br>
