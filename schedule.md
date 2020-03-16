@@ -34,7 +34,7 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 ** Welcome
 
 
-*** { @unit = "", @title = "Overview of Causal Analysis with Observational Data" }
+*** { @unit = "", @title = "Overview of Causal Analysis with Observational Data", @foldout }
 
 <br>
 <br>
@@ -98,7 +98,7 @@ Just listen to this summary of current knowledge on the topic, then try to succi
 
 
 
-*** { @unit = "", @title = "Background Reading", @reading, @foldout  }
+*** { @unit = "", @title = "Estimating Program Impact", @reading, @foldout  }
 
 
 <br>
@@ -112,7 +112,11 @@ Just listen to this summary of current knowledge on the topic, then try to succi
 
 This course provides foundational skills in quantitative program evaluation:
 
-**Reichardt, C. S., & Bormann, C. A. (1994). Using regression models to estimate program effects. Handbook of practical program evaluation, 417-455. [__[pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/pubs/Estimating%20Program%20Effects%20Using%20Regression%20Models.pdf)__]**
+**Reichardt, C. S., & Bormann, C. A. (1994). Using regression models to estimate program effects. Handbook of practical program evaluation, 417-455.** [__[pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/pubs/Estimating%20Program%20Effects%20Using%20Regression%20Models.pdf)__]
+
+**Gertler, P. J., Martinez, S., Premand, P., Rawlings, L. B., & Vermeersch, C. M. (2016). Impact evaluation in practice. The World Bank.** [[pdf](https://siteresources.worldbank.org/EXTHDOFFICE/Resources/5485726-1295455628620/Impact_Evaluation_in_Practice.pdf)]
+* Chapter 3. Causal Inference and Counterfactuals 
+* Chapter 4. Randomized Selection Methods  
 
 ## The Broader Field of Evaluation 
 
@@ -131,6 +135,60 @@ And to get a flavor for debates around approaches to measuring program impact in
 <br>
 
 
+
+
+*** { @unit = "", @title = "Varieties of the Counterfactual", @reading, @foldout }
+
+## Description 
+
+This week introduces the notion of counterfactual reasoning using quasi-experimental design. 
+
+## Learning Objectives
+
+* Be able to define and explain what is meant by "counterfactual reasoning" broadly. 
+* Explain the three primary counterfactuals in all statistics models. 
+* Apply the appropriate tests to determine whether the counterfactual is appropriate and robust. 
+
+## Lecture Materials
+
+* [**Introduction to Counterfactuals**](https://github.com/DS4PS/cpp-524-spr-2020/raw/master/lectures/p-01-intro-to-counterfactuals.pdf)
+
+* [**Testing the Counterfactual Validity**](https://github.com/DS4PS/cpp-524-spr-2020/raw/master/lectures/p-02-tests-for-cf-validity.pdf)
+
+  - Pre-study equivalence 
+  - Tests for non-random attrition 
+
+
+* [**Varieties of the Counterfactual**](https://github.com/DS4PS/cpp-524-spr-2020/raw/master/lectures/p-03-varieties-of-counterfactuals.pdf)
+
+  - Pre-post with comparison group design 
+    - difference-in-difference model  
+  - Post-test only design 
+  - Reflexive design 
+
+
+## Assigned and Recommended Articles or Chapters
+
+**Required:**
+
+Cook, T. D., Scriven, M., Coryn, C. L., & Evergreen, S. D. (2010). Contemporary thinking about causation in evaluation: A dialogue with Tom Cook and Michael Scriven. American Journal of Evaluation, 31(1), 105-117. [ [LINK](https://github.com/DS4PS/cpp-524-spr-2020/raw/master/pubs/conversation-with-tom-cook-and-michael-scriven.pdf) ]
+
+**Suggested:**
+
+Skim: Gertler, P. J., Martinez, S., Premand, P., Rawlings, L. B., & Vermeersch, C. M. (2016). *Impact evaluation in practice.* The World Bank.  
+* CH5 Regression Discontinuity Design   
+* CH6 Difference in Difference Models   
+* CH7 Matching   
+
+
+
+## Key Take-Aways 
+
+We rarely have the resources or opportunity to utilize Randomized Control Trials (RCTs) in policy and management. There is a growing field of quasi-experimental methodologies that allow us to reproduce many of the features of RCTs to make strong causal claims when certain conditions are met. 
+
+
+<br>
+<br>
 
 
 
