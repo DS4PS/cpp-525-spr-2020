@@ -34,7 +34,7 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 ** Welcome
 
 
-*** { @unit = "", @title = "Overview of Causal Analysis with Observational Data", @foldout }
+*** { @unit = "", @title = "Overview of Causal Analysis with Observational Data", @reading, @foldout }
 
 <br>
 <br>
@@ -206,21 +206,21 @@ We rarely have the resources or opportunity to utilize Randomized Control Trials
 
 ** Week 1 - Interrupted Time Series 
 
-*** { @unit = "", @title = "Lecture Notes", @reading }
+*** { @unit = "", @title = "Lecture Notes", @reading, @lecture }
 
 *** { @unit = "Due MON Mar 23rd", @title = "Lab 01", @assignment }
 
 
 ** Week 2 - Difference-in-Difference Models 
 
-*** { @unit = "", @title = "Lecture Notes", @reading }
+*** { @unit = "", @title = "Lecture Notes", @reading, @lecture }
 
 *** { @unit = "Due MON Mar 30th", @title = "Lab 02", @assignment }
 
 
 ** Week 3 - Panel Data with Fixed Effects  
 
-*** { @unit = "", @title = "Lecture Notes", @reading }
+*** { @unit = "", @title = "Lecture Notes", @reading, @lecture }
 
 *** { @unit = "Due MON Apr 6th", @title = "Lab 03", @assignment }
 
@@ -228,7 +228,7 @@ We rarely have the resources or opportunity to utilize Randomized Control Trials
 
 ** Week 4 - Instrumental Variables 
 
-*** { @unit = "", @title = "Lecture Notes", @reading }
+*** { @unit = "", @title = "Lecture Notes", @reading, @lecture }
 
 *** { @unit = "Due MON Apr 13th", @title = "Lab 04", @assignment }
 
@@ -236,7 +236,7 @@ We rarely have the resources or opportunity to utilize Randomized Control Trials
 
 ** Week 5 - Regression Discontinuity Design 
 
-*** { @unit = "", @title = "Lecture Notes", @reading }
+*** { @unit = "", @title = "Lecture Notes", @reading, @lecture }
 
 *** { @unit = "Due MON Apr 20th", @title = "Lab 05", @assignment }
 
@@ -244,7 +244,7 @@ We rarely have the resources or opportunity to utilize Randomized Control Trials
 
 ** Week 6 - Logistic Regression  
 
-*** { @unit = "", @title = "Lecture Notes", @reading }
+*** { @unit = "", @title = "Lecture Notes", @reading, @lecture }
 
 *** { @unit = "Due MON Apr 27th", @title = "Lab 06", @assignment }
 
@@ -252,7 +252,7 @@ We rarely have the resources or opportunity to utilize Randomized Control Trials
 
 ** Week 7 - Propensity Score Matching 
 
-*** { @unit = "", @title = "Lecture Notes", @reading }
+*** { @unit = "", @title = "Lecture Notes", @reading, @lecture }
 
 *** { @unit = "Due FRI May 1st", @title = "Lab 07", @assignment }
 
