@@ -25,7 +25,7 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 **DUE: MONDAY March 23rd**
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<a class="uk-button uk-button" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 
 
 
