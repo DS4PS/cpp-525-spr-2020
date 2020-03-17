@@ -5,7 +5,7 @@ title: Syllabus
 index:
     title: Foundations of Program Evaluation III
     image: distribution.svg
-    subtitle: Econometrics techniques for program evaluation. 
+    subtitle: Regression tools for discerning program impact. 
     
 info: 
  program_title: Program Evaluation and Data Analytics
@@ -38,11 +38,6 @@ instructor:
    
 
 textbooks:
-- title: 'Applied Regression: An Introduction'
-  authors: 'Lewis-Beck, C., & Lewis-Beck, M.'
-  edition: 2015
-  link: https://github.com/DS4PS/cpp-523-spr-2020/raw/master/pubs/Applied%20Regression%20Lewis-Beck.pdf
-  required: Required (follow link)
 - title: 'Impact Evaluation in Practice'
   authors: 'Gertler, P. J., Martinez, S., Premand, P., Rawlings, L. B., & Vermeersch, C. M. J.'
   edition: 2011
@@ -64,16 +59,19 @@ Regression serves as the foundation for modern quantitative program evaluation t
 
 This course helps you expand your program evaluation toolkit by demonstrating how to estimate several common regression models that leverage unique data and counterfactual specifications. The previous course on research design (CPP 524) covered a collection of experimentatal and quasi-experimental approaches to estimating program impact. This course extends the previous material by translating each specific form of the counterfactual – pre-post with comparisons, reflexive design, and the post-test only design – into specific regression models that leverage each counterfactual. This course teaches you how to estimate program effects using a given research design. We will cover the following models organized by counterfactuals: 
 
-**Pre-post with comparison group:**
-(1) difference-in-difference regression
-(2) panel models using fixed effects
-**Reflexive design:** 
-(3) time series analysis
-**Post-test only design:**
-(4) propensity score matching
-(5) regression discontinuity design
+**Pre-post with comparison group:**  
+(1) difference-in-difference regression  
+(2) panel models using fixed effects 
 
-We also cover (6) instrumental variables and (7) logistic regression. 
+**Reflexive design:**   
+(3) time series analysis  
+
+**Post-test only design:**  
+(4) propensity score matching  
+(5) regression discontinuity design  
+(6) instrumental variables
+
+We also cover (7) logistic regression, a common technique to use when your outcome is binary (1/0). 
 
 The main learning objectives for the course are:
 
