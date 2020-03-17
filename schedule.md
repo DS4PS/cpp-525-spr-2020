@@ -15,7 +15,7 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 <div class = "uk-container uk-container-small">
   
 <br><br>
-
+<br><br>
 
 
 ## Week 1 - Interrupted Time Series 
@@ -25,7 +25,14 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 **DUE: MONDAY March 23rd**
 
-<a class="uk-button uk-button" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<a class="uk-button uk-button-default" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+
+<br>
+
+----
+
+<br>
+
 
 
 
@@ -36,7 +43,16 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 Due MON Mar 30th
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<a class="uk-button uk-button-default" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+
+<br>
+
+----
+
+<br>
+
+
+
 
 
 ## Week 3 - Panel Data with Fixed Effects 
@@ -46,7 +62,14 @@ Due MON Mar 30th
 
 Due MON Apr 6th
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<a class="uk-button uk-button-default" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+
+<br>
+
+----
+
+<br>
+
 
 
 
@@ -57,7 +80,15 @@ Due MON Apr 6th
 
 Due MON Apr 13th
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<a class="uk-button uk-button-default" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+
+<br>
+
+----
+
+<br>
+
+
 
 
 ## Week 5 - Regression Discontinuity Design 
@@ -67,7 +98,15 @@ Due MON Apr 13th
 
 Due MON Apr 20th
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<a class="uk-button uk-button-default" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+
+<br>
+
+----
+
+<br>
+
+
 
 
 ## Week 6 - Logistic Regression 
@@ -77,7 +116,14 @@ Due MON Apr 20th
 
 Due MON Apr 27th
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<a class="uk-button uk-button-default" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+
+<br>
+
+----
+
+<br>
+
 
 
 ## Week 7 - Propensity Score Matching 
@@ -87,20 +133,19 @@ Due MON Apr 27th
 
 Due FRI May 1st
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<a class="uk-button uk-button-default" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 
 
 
 
 
 
-<br>
 <br>
 
 -------
 
 <br>
-<br>
+
 
 
 
