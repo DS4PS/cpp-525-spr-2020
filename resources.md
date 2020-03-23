@@ -7,19 +7,10 @@ title: Resources
   
 <br><br>
 
-## Handouts 
-
-* Regression Review Assessment  [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Regression-Review-Self-Test.pdf) ]
-* Common Statistics Notation [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Common-Statistics-Notation.pdf) ] 
-* Anscomb's Quartet  [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Anscombes-Quartet.pdf) ]
-* Omitted Variable Bias Calculation  
-* Seven Sins of Regression  [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Seven-Sins-of-Regression-Analysis.pdf) ]
-* Marginal Effects in Quadratic Model  [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Marginal-Effects-in-Quadratic-Regression-Models.pdf) ]
-* Dummy Variables with Interactions  [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Regression-with-Interaction-Effects.pdf) ]  
-* A Taxonomy of Control Variables [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/taxonomy-of-control-variables.pdf) ]  
+ 
 
 
-## Regression Tutorial for R
+## Regression Notes for R
 
 * UC Business Analytics [ [link](https://uc-r.github.io/linear_regression) ]
 * By Manny Gimond [ [link](http://mgimond.github.io/Stats-in-R/regression.html) ]
@@ -32,14 +23,8 @@ title: Resources
   - [confidence intervals](https://rpsychologist.com/d3/CI/)
 * Mathematics in R Markdown [ [link](https://www.calvin.edu/~rpruim/courses/s341/S17/from-class/MathinRmd.html) ]  
 
-## Creating Nice Tables in RMD
 
-* [stargazer cheatsheet](https://www.jakeruss.com/cheatsheets/stargazer/)
-* [xtable gallery](https://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf) 
-* [adding equations](https://datalorax.github.io/equatiomatic/)  
-
-
-## Useful R Packages
+## Useful R Packages for Regression 
 
 * plm: panel linear models 
 * coefplot: create coefficient plots 
@@ -48,6 +33,23 @@ title: Resources
 * pander: formatting tables 
 * xtable: formatting tables 
 
+## Creating Nice Tables in RMD
+
+* [stargazer cheatsheet](https://www.jakeruss.com/cheatsheets/stargazer/)
+* [xtable gallery](https://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf) 
+* [adding equations](https://datalorax.github.io/equatiomatic/)  
+
+
+## Stats Background Material
+
+* Regression Review Assessment  [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Regression-Review-Self-Test.pdf) ]
+* Common Statistics Notation [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Common-Statistics-Notation.pdf) ] 
+* Anscomb's Quartet  [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Anscombes-Quartet.pdf) ]
+* Omitted Variable Bias Calculation  
+* Seven Sins of Regression  [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Seven-Sins-of-Regression-Analysis.pdf) ]
+* Marginal Effects in Quadratic Model  [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Marginal-Effects-in-Quadratic-Regression-Models.pdf) ]
+* Dummy Variables with Interactions  [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Regression-with-Interaction-Effects.pdf) ]  
+* A Taxonomy of Control Variables [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/taxonomy-of-control-variables.pdf) ] 
 
 ## Reference Books
 
