@@ -46,12 +46,18 @@ Chapter on Interrrupted Time Series [[PDF](https://github.com/DS4PS/cpp-525-spr-
 
 ## Week 2 - Difference-in-Difference Models 
 
-* [LECTURE]()
-* [LAB]()
+* [LECTURE](https://ds4ps.org/pe4ps-textbook/docs/p-030-diff-in-diff.html)
+* [LAB](https://ds4ps.org/pe4ps-textbook/labs/diff-in-diff-lab.html)
 
 Due MON Mar 30th
 
 <a class="uk-button uk-button-default" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+
+<br>
+
+**Reference:**
+
+Wing, C., Simon, K., & Bello-Gomez, R. A. (2018). Designing difference in difference studies: best practices for public health policy research. Annual review of public health, 39. [[pdf]()https://www.annualreviews.org/doi/pdf/10.1146/annurev-publhealth-040617-013507] 
 
 <br>
 
