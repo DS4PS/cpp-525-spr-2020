@@ -55,6 +55,12 @@ Due MON Mar 30th
 
 <br>
 
+**Review:** 
+
+Hypothesis testing with dummy variables: [lecture notes](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/hypotheses-tests-with-dummy-variables.pdf)   
+
+Varieties of the counterfactual: [lecture notes](https://github.com/DS4PS/cpp-524-spr-2020/raw/master/lectures/p-03-varieties-of-counterfactuals.pdf)   
+
 **Reference:**
 
 Wing, C., Simon, K., & Bello-Gomez, R. A. (2018). Designing difference in difference studies: best practices for public health policy research. Annual review of public health, 39. [[pdf]()https://www.annualreviews.org/doi/pdf/10.1146/annurev-publhealth-040617-013507] 
