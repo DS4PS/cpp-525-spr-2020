@@ -77,8 +77,9 @@ Wing, C., Simon, K., & Bello-Gomez, R. A. (2018). Designing difference in differ
 
 ## Week 3 - Panel Data with Fixed Effects 
 
-* [LECTURE]()
-* [LAB]()
+* [LECTURE NOTES](https://github.com/DS4PS/cpp-525-spr-2020/raw/master/lectures/p-23-fixed-effects.pdf)
+* [LECTURE CHAPTER](https://ds4ps.org/pe4ps-textbook/docs/p-040-fixed-effects.html)
+* [LAB](https://ds4ps.org/pe4ps-textbook/labs/fixed-effects-lab.html)
 
 Due MON Apr 6th
 
