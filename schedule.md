@@ -135,7 +135,13 @@ Due MON Apr 13th
 
 <br>
 
+[iv regression example](https://ds4ps.org/cpp-525-spr-2020/lectures/p-25-iv-example.html)
 
+<br>
+
+----
+
+<br>
 
 
 ## Week 5 - Regression Discontinuity Design 
