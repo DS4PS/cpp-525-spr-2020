@@ -89,6 +89,22 @@ Due MON Apr 6th
 
 ----
 
+[useful notes on interpretting output](https://www.princeton.edu/~otorres/Panel101.pdf)
+
+[random effects example](https://raw.githubusercontent.com/DS4PS/cpp-525-spr-2020/master/lectures/random-effects.R)
+
+![](https://raw.githubusercontent.com/DS4PS/cpp-525-spr-2020/master/assets/img/random-effects.png)
+
+Group-level variable is correlated with the outcome, but uncorrelated with the policy variable. Thus omission does not cause bias, but inclusion increases efficiency. 
+
+Recall the [taxonomy of control variables](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/taxonomy-of-control-variables.pdf).
+
+Random effects are Type A controls. Fixed effects are Type B controls:
+
+![](https://raw.githubusercontent.com/DS4PS/cpp-525-spr-2020/master/assets/img/taxonomy-of-controls2.png)
+
+![](https://raw.githubusercontent.com/DS4PS/cpp-525-spr-2020/master/assets/img/taxonomy-of-controls.png)
+
 <br>
 
 
