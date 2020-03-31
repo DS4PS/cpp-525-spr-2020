@@ -103,8 +103,18 @@ Random effects are Type A controls. Fixed effects are Type B controls:
 
 ![](https://raw.githubusercontent.com/DS4PS/cpp-525-spr-2020/master/assets/img/taxonomy-of-controls2.png)
 
+<br>
+<hr>
+<br>
+
 ![](https://raw.githubusercontent.com/DS4PS/cpp-525-spr-2020/master/assets/img/taxonomy-of-controls.png)
 
+<br>
+<br>
+
+<hr>
+
+<br>
 <br>
 
 
