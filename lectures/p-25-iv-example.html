@@ -333,71 +333,11 @@ library( pander )</code></pre>
 <li><strong>Z</strong> is the instrumental variable</li>
 <li><strong>Y</strong> is the outcome</li>
 </ul>
-<table style="width:61%;">
-<colgroup>
-<col width="13%" />
-<col width="13%" />
-<col width="11%" />
-<col width="11%" />
-<col width="11%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="center">y</th>
-<th align="center">x1</th>
-<th align="center">x2</th>
-<th align="center">x3</th>
-<th align="center">z</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="center">1703270</td>
-<td align="center">-165773</td>
-<td align="center">44395</td>
-<td align="center">25042</td>
-<td align="center">4768</td>
-</tr>
-<tr class="even">
-<td align="center">1707072</td>
-<td align="center">-132758</td>
-<td align="center">47698</td>
-<td align="center">24600</td>
-<td align="center">19739</td>
-</tr>
-<tr class="odd">
-<td align="center">2467177</td>
-<td align="center">-235550</td>
-<td align="center">65587</td>
-<td align="center">34820</td>
-<td align="center">4168</td>
-</tr>
-<tr class="even">
-<td align="center">1951706</td>
-<td align="center">-157048</td>
-<td align="center">50705</td>
-<td align="center">33678</td>
-<td align="center">39385</td>
-</tr>
-<tr class="odd">
-<td align="center">1371292</td>
-<td align="center">-29321</td>
-<td align="center">51293</td>
-<td align="center">9507</td>
-<td align="center">18483</td>
-</tr>
-<tr class="even">
-<td align="center">2805300</td>
-<td align="center">-312455</td>
-<td align="center">67151</td>
-<td align="center">45406</td>
-<td align="center">2695</td>
-</tr>
-</tbody>
-</table>
+<pre class="r"><code>URL &lt;- &quot;https://ds4ps.org/cpp-525-spr-2020/lectures/data/iv-reg-example.csv&quot;
+dat &lt;- read.csv( URL, stringsAsFactors=F )</code></pre>
 <p><br>
 <br></p>
-<p><img src="p-25-iv-example_files/figure-html/unnamed-chunk-4-1.png" width="960" /></p>
+<p><img src="p-25-iv-example_files/figure-html/unnamed-chunk-5-1.png" width="960" /></p>
 <p><br>
 <br></p>
 <p>Does the variable Z meet the criteria as an instrument if X1 is the policy variable and X3 is the omitted variable? How do you know?</p>
@@ -961,7 +901,7 @@ F Statistic
 <p>We know that omitted variable bias results from the correlation of our policy variable (X1) and the omitted variable (X3).</p>
 <p><br></p>
 <pre class="r"><code>cplot( x1, x3, xlab=&quot;X1&quot;, ylab=&quot;X3&quot; )</code></pre>
-<p><img src="p-25-iv-example_files/figure-html/unnamed-chunk-9-1.png" width="960" /></p>
+<p><img src="p-25-iv-example_files/figure-html/unnamed-chunk-10-1.png" width="960" /></p>
 <p><br></p>
 <p>We can use the instrumental variable to partition the variance of X1 into a component that is highly correlated with X3 (the residual), and a component that is uncorrelated with X3 (X1-hat). If we want to be free of omitted variable bias caused by X3 we can use the uncorrelated component of X1 only (X1-hat).</p>
 <p><br></p>
@@ -975,7 +915,7 @@ par( mfrow=c(1,2) )
 
 cplot( e_x1, x3, xlab=&quot;X1 Residual&quot;, ylab=&quot;X3&quot; )
 cplot( x1_hat, x3, xlab=&quot;X1-Hat&quot;, ylab=&quot;X3&quot; )</code></pre>
-<p><img src="p-25-iv-example_files/figure-html/unnamed-chunk-10-1.png" width="960" /></p>
+<p><img src="p-25-iv-example_files/figure-html/unnamed-chunk-11-1.png" width="960" /></p>
 <p><br></p>
 <p>One interesting thing about the instrumental variable model is that X1 will be more correlated with Y than X1-hat, but X1-hat does a better job of recovering the true slope B1 from the full model.</p>
 <p><br></p>
@@ -983,7 +923,7 @@ cplot( x1_hat, x3, xlab=&quot;X1-Hat&quot;, ylab=&quot;X3&quot; )</code></pre>
 
 cplot( x1, y, xlab=&quot;X1&quot;, ylab=&quot;Y&quot; )
 cplot( x1_hat, y, xlab=&quot;X1-Hat&quot;, ylab=&quot;Y&quot; )</code></pre>
-<p><img src="p-25-iv-example_files/figure-html/unnamed-chunk-11-1.png" width="960" /></p>
+<p><img src="p-25-iv-example_files/figure-html/unnamed-chunk-12-1.png" width="960" /></p>
 <p><br>
 <br></p>
 <table style="text-align:center">
@@ -1284,7 +1224,7 @@ F Statistic
 
 cplot( z, x1, xlab=&quot;Z&quot;, ylab=&quot;X1&quot; )
 cplot( z, y, xlab=&quot;Z&quot;, ylab=&quot;Y&quot; )</code></pre>
-<p><img src="p-25-iv-example_files/figure-html/unnamed-chunk-13-1.png" width="960" /></p>
+<p><img src="p-25-iv-example_files/figure-html/unnamed-chunk-14-1.png" width="960" /></p>
 <p><br>
 <br></p>
 </div>

@@ -53,7 +53,15 @@ y <- 25 + 23*x2 - 2*x1 + 14*x3 + 100*rnorm(1000)
 
 dat <- data.frame( y, x1, x2, x3, z )
 
-head( dat ) %>% pander()
+# write.csv( dat, "iv-reg-example.csv", row.names=F )
+# head( dat ) %>% pander()
+```
+
+
+
+```{r}
+URL <- "https://ds4ps.org/cpp-525-spr-2020/lectures/data/iv-reg-example.csv"
+dat <- read.csv( URL, stringsAsFactors=F )
 ```
 
 <br>
