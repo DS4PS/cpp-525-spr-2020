@@ -124,7 +124,7 @@ Random effects are Type A controls. Fixed effects are Type B controls:
 
 * [LECTURE NOTES](https://github.com/DS4PS/cpp-525-spr-2020/raw/master/lectures/p-24-instrumental-variables.pdf)
 * [LECTURE CHAPTER](https://ds4ps.org/pe4ps-textbook/docs/p-050-instrumental-variables.html)
-* [LAB]()
+* [LAB](https://ds4ps.org/pe4ps-textbook/labs/instrumental-variables.html)
 
 Due MON Apr 13th
 
