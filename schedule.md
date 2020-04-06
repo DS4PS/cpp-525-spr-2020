@@ -132,7 +132,7 @@ Random effects are Type A controls. Fixed effects are Type B controls:
 * [LAB](https://ds4ps.org/pe4ps-textbook/labs/instrumental-variables.html)
 <br>
 
-[iv regression example](https://ds4ps.org/cpp-525-spr-2020/lectures/p-25-iv-example.html)
+* [iv regression example](https://ds4ps.org/cpp-525-spr-2020/lectures/p-25-iv-example.html)
 
 
 Due MON Apr 13th
