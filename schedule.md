@@ -120,29 +120,39 @@ Random effects are Type A controls. Fixed effects are Type B controls:
 
 
 
+
+
+
+
+
 ## Week 4 - Instrumental Variables 
 
 * [LECTURE NOTES](https://github.com/DS4PS/cpp-525-spr-2020/raw/master/lectures/p-24-instrumental-variables.pdf)
 * [LECTURE CHAPTER](https://ds4ps.org/pe4ps-textbook/docs/p-050-instrumental-variables.html)
 * [LAB](https://ds4ps.org/pe4ps-textbook/labs/instrumental-variables.html)
+<br>
+
+[iv regression example](https://ds4ps.org/cpp-525-spr-2020/lectures/p-25-iv-example.html)
+
 
 Due MON Apr 13th
 
 <a class="uk-button uk-button-default" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 
 <br>
-
-----
-
 <br>
 
-[iv regression example](https://ds4ps.org/cpp-525-spr-2020/lectures/p-25-iv-example.html)
+<hr>
 
 <br>
-
-----
-
 <br>
+
+
+
+
+
+
+
 
 
 ## Week 5 - Regression Discontinuity Design 
@@ -159,6 +169,10 @@ Due MON Apr 20th
 ----
 
 <br>
+
+
+
+
 
 
 
