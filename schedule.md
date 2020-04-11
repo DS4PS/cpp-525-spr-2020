@@ -47,6 +47,7 @@ Chapter on Interrrupted Time Series [[PDF](https://github.com/DS4PS/cpp-525-spr-
 ## Week 2 - Difference-in-Difference Models 
 
 * [LECTURE](https://ds4ps.org/pe4ps-textbook/docs/p-030-diff-in-diff.html)
+* [overview video](https://asu.zoom.us/rec/play/tMIrd7yvqDo3TNfD4gSDV_V5W425e_6s2yBNrqBcxUixASFRY1GmN7VDNuqKJy2LLzjKb6H4yI5HWMZw?continueMode=true&_x_zm_rtaid=a3eEFLG8Qtiy1qBhz5Gnyg.1586645508130.02d1fbabc21b564365fde85fb34937b4&_x_zm_rhtaid=598)
 * [LAB](https://ds4ps.org/pe4ps-textbook/labs/diff-in-diff-lab.html)
 
 Due MON Mar 30th
@@ -79,6 +80,7 @@ Wing, C., Simon, K., & Bello-Gomez, R. A. (2018). Designing difference in differ
 
 * [LECTURE NOTES](https://github.com/DS4PS/cpp-525-spr-2020/raw/master/lectures/p-23-fixed-effects.pdf)
 * [LECTURE CHAPTER](https://ds4ps.org/pe4ps-textbook/docs/p-040-fixed-effects.html)
+* [overview video](https://asu.zoom.us/rec/play/vZQrcbj9qTo3T9aSuQSDC6dxW9S7Kais0SVP-qUKykm9B3QGMFahYeMVZLENnE0QqLfC7HHfx_JInrRR?continueMode=true&_x_zm_rtaid=a3eEFLG8Qtiy1qBhz5Gnyg.1586645508130.02d1fbabc21b564365fde85fb34937b4&_x_zm_rhtaid=598)
 * [LAB](https://ds4ps.org/pe4ps-textbook/labs/fixed-effects-lab.html)
 
 Due MON Apr 6th
