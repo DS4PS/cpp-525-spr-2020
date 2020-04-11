@@ -133,6 +133,7 @@ Random effects are Type A controls. Fixed effects are Type B controls:
 <br>
 
 * [iv regression example](https://ds4ps.org/cpp-525-spr-2020/lectures/p-25-iv-example.html)
+* [overview of iv regression (video)](https://asu.zoom.us/rec/play/u5x-I7r9-Dw3GYLH4gSDB_5xW9TpK6qs0HQY-qIJmEazVHQBNwCvNLETM-KIqBwzOPr2gZymGDn8qDSn?continueMode=true&_x_zm_rtaid=a3eEFLG8Qtiy1qBhz5Gnyg.1586645508130.02d1fbabc21b564365fde85fb34937b4&_x_zm_rhtaid=598)
 
 
 Due MON Apr 13th
