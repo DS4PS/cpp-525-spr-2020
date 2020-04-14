@@ -160,7 +160,7 @@ Due MON Apr 13th
 
 ## Week 5 - Regression Discontinuity Design 
 
-* [LECTURE](https://ds4ps.org/pe4ps-textbook/docs/p-060-regression-discontinuity.html)
+* [LECTURE](https://ds4ps.org/pe4ps-textbook/docs/p-060-reg-discontinuity.html)
 * [LAB](https://ds4ps.org/pe4ps-textbook/labs/regression-discontinuity-lab.html)
 
 Due MON Apr 20th
