@@ -173,9 +173,13 @@ Due MON Apr 20th
 
 <br>
 
+![](assets/img/reg-discontinuity.png)
+<br>
+<br>
 
+----
 
-
+<br>
 
 
 
