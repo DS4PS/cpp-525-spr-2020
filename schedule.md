@@ -186,7 +186,7 @@ Due MON Apr 20th
 
 ## Week 6 - Logistic Regression 
 
-* [LECTURE]()
+* [LECTURE](https://ds4ps.org/pe4ps-textbook/docs/p-070-logistic-regression.rmd)
 * [LAB]()
 
 Due MON Apr 27th
