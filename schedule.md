@@ -187,7 +187,7 @@ Due MON Apr 20th
 ## Week 6 - Logistic Regression 
 
 * [LECTURE](https://ds4ps.org/pe4ps-textbook/docs/p-070-logistic-regression.html)
-* [LAB]()
+* [LAB](https://ds4ps.org/pe4ps-textbook/labs/logit-lab.html)
 
 * [example script](examples/logistic-regression-example.R)  
 * [video](https://asu.zoom.us/rec/share/xfMlBJHy_E5IZ7fGsnvxB5UzGKTreaa8hiAWqfIPnhtzDDh-1wytiZ5OYSgLp0WQ)  
