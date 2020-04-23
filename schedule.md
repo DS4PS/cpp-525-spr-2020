@@ -189,6 +189,9 @@ Due MON Apr 20th
 * [LECTURE](https://ds4ps.org/pe4ps-textbook/docs/p-070-logistic-regression.html)
 * [LAB]()
 
+* [example script](examples/logistic-regression-example.R)  
+* [video](https://asu.zoom.us/rec/share/xfMlBJHy_E5IZ7fGsnvxB5UzGKTreaa8hiAWqfIPnhtzDDh-1wytiZ5OYSgLp0WQ)  
+
 Due MON Apr 27th
 
 <a class="uk-button uk-button-default" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
