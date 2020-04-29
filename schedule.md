@@ -206,10 +206,10 @@ Due MON Apr 27th
 
 ## Week 7 - Propensity Score Matching 
 
-* [LECTURE]()
+* [LECTURE](https://ds4ps.org/pe4ps-textbook/docs/p-080-matching.html)
 * [LAB]()
 
-Due FRI May 1st
+Due MON May 4th
 
 <a class="uk-button uk-button-default" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
 
