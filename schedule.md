@@ -207,7 +207,7 @@ Due MON Apr 27th
 ## Week 7 - Propensity Score Matching 
 
 * [LECTURE](https://ds4ps.org/pe4ps-textbook/docs/p-080-matching.html)
-* [LAB]()
+* [LAB](https://ds4ps.org/pe4ps-textbook/labs/matching-lab.html)
 
 Due MON May 4th
 
