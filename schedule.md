@@ -209,6 +209,8 @@ Due MON Apr 27th
 * [LECTURE](https://ds4ps.org/pe4ps-textbook/docs/p-080-matching.html)
 * [LAB](https://ds4ps.org/pe4ps-textbook/labs/matching-lab.html)
 
+[video overview](https://asu.zoom.us/rec/share/4MpkE7Xr2VhOZdbI4mOFR7caHY_6eaa8gSdKq_cFn0ecqyECXG2G3ve0yarS9z00?startTime=1588373097000)
+
 Due MON May 4th
 
 <a class="uk-button uk-button-default" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
