@@ -35,6 +35,8 @@ Bernal, J. L., Cummins, S., & Gasparrini, A. (2017). Interrupted time series reg
 
 Chapter on Interrrupted Time Series [[PDF](https://github.com/DS4PS/cpp-525-spr-2020/raw/master/pubs/cook-campbell-shadish-interrupted-time-series.pdf)]:  From Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and quasi-experimental designs for generalized causal inference.* Boston: Houghton Mifflin.
 
+<i class="fas fa-download"></i>
+
 <br>
 
 ----
